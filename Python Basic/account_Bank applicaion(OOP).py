@@ -47,3 +47,6 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+#Composition a class inside a class ClassName(object):
+#Inheritence super().
