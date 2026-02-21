@@ -31,3 +31,15 @@ while True:
         break
     else:
         print("Invalid option")
+
+
+import json
+
+data = {"name": "adnan", "score": 95}
+
+with open('data.json', 'w') as file:
+    json.dump(data, file)
+
+with open('data.json', 'r') as file:
+    jsonfile = json.load(file)
+    print(jsonfile.get("name"))
