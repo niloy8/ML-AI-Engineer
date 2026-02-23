@@ -1,0 +1,8 @@
+Customer ID,Customer Name,Customer Email,Phone,Joined Date,Total Orders,Lifetime Value,Order ID,Order Number,Order Date,Order Status,Payment Method,Payment Status,Delivery Area,Delivery Address,Order Subtotal,Delivery Charge,Order Total,Item ID,Product ID,Product Title,Item Price,Quantity,Item Total
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,15,KNX-MLXE4YTT-8X9F,2/22/2026,pending,cod,pending,outside,"Dhaka, Narayanganj",20000,150,20150,18,6,"Blush Pink Embroidered Bridal Lehenga Set with Dupatta",10000,2,20000
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,8,KNX-MLRUDGL6-DOPB,2/18/2026,pending,cod,pending,outside,"Dhaka, Narayanganj",3233,150,3383,10,5,"Samsung",3233,1,3233
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,4,KNX-MLPAH6XD-3BMU,2/16/2026,pending,cod,pending,outside,"Dhaka, Narayanganj",1233444,150,1233594,5,2,"Samsung",1233444,1,1233444
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,3,KNX-MLPA1FU2-EYKD,2/16/2026,pending,cod,pending,inside,"Dhaka, Narayanganj",0,80,80,4,2,"Samsung",1233444,1,1233444
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,2,KNX-MLP8WB2J-RRL0,2/16/2026,pending,cod,pending,inside,"Dhaka, Narayanganj",0,80,80,2,1,"Vivo",634444,1,634444
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,2,KNX-MLP8WB2J-RRL0,2/16/2026,pending,cod,pending,inside,"Dhaka, Narayanganj",0,80,80,3,1,"Vivo",634444,1,634444
+1,"Md Niloy",niloybhuiyan688@gmail.com,01881089873,2/16/2026,6,1269038,1,KNX-MLP7XQU0-DXBA,2/16/2026,delivered,cod,paid,outside,"Dhaka, Narayanganj",1268888,150,1269038,1,1,"Vivo",634444,2,1268888
